@@ -29,8 +29,8 @@
 
 ### Лабораторная работа №3
 
-1. Настройка сети в Cisco Packet Tracer. Ссылка // TODO
-2. Отчёт по лабораторной работе. Ссылка // TODO
+1. Настройка сети в Cisco Packet Tracer.
+2. Отчёт по лабораторной работе. [Ссылка](https://github.com/QDeVerde/it-project/tree/main/lab_3)
 
 ### Подготовка к экзамену
 
