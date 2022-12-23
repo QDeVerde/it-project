@@ -35,4 +35,5 @@
 ### Подготовка к экзамену
 
 Для подготовки к экзамену был выбран билет [№15](https://github.com/stankin/inet-2022/wiki/exam15)
+
 Ссылка на diff: [изменения](https://github.com/stankin/inet-2022/wiki/exam15/_compare/d707d57f93d24943b79faf530b2be436e129c9cb...6f4a898fa3aa63a753797905bb4f6d53d6f8ae58)
